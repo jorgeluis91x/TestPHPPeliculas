@@ -12,5 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+
+Route::resource('/valoraciones','RatingsController');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');

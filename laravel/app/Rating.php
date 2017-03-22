@@ -14,8 +14,8 @@ class Rating extends Model
     {
         return $this->belongsTo('TestMovies\Movie');
     }
-     public function client()
+     public function user()
     {
-        return $this->belongsTo('TestMovies\Client');
+        return $this->belongsTo('TestMovies\User');
     }
 }
