@@ -2,7 +2,8 @@
 <td>{{$movie->categoria}}</td>
 <td>                            
     {!!Form::open(['route'=> ['home.update',$movie->id], 'method'=>'PUT', 'id'=>'guardar'.$movie->idMovie.''])!!}
-        {!!Form::number('valoracion', $movie->valoracion,['class'=>'input-sm'])!!}
+         <input type="number" min="0" max="10" name="valoracion" value="{{$movie->valoracion}}" class="input-sm">
+       
 
         {!!Form::hidden('user_id', $user_id,['form'=>'guardar'.$movie->idMovie.''])!!}
         {!!Form::hidden('movie_id', $movie->idMovie)!!}

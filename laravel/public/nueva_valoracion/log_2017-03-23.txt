@@ -1,0 +1,31 @@
+[2017-03-23 2:09:44.431255] [error] Se Agrego una nueva valoracion: 10
+[2017-03-23 2:13:28.661812] [error] Se Agrego una nueva valoracion de: 3 de el cliente Jorge
+[2017-03-23 2:20:17.322818] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: Prision Break
+[2017-03-23 2:22:01.527426] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: SuperMan en la fecha: 2017-03-23 02:21:58
+[2017-03-23 2:28:00.431559] [info] El cliente: Janeth agrego una nueva valoracion de: 2 a la pelicula: SuperMan en la fecha: 2017-03-23 02:27:50
+[2017-03-23 2:28:05.246541] [info] El cliente: Janeth agrego una nueva valoracion de: 2 a la pelicula: Prision Break en la fecha: 2017-03-23 02:28:00
+[2017-03-23 2:28:08.720874] [info] El cliente: Janeth agrego una nueva valoracion de: 2 a la pelicula: SpiderMan en la fecha: 2017-03-23 02:28:05
+[2017-03-23 2:29:51.649656] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: Braking bad en la fecha: 2017-03-23 02:29:41
+[2017-03-23 2:29:57.332720] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: SpiderMan en la fecha: 2017-03-23 02:29:51
+[2017-03-23 2:30:00.635001] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: SuperMan en la fecha: 2017-03-23 02:29:57
+[2017-03-23 4:10:17.932523] [info] El cliente: nicolas agrego una nueva valoracion de: 1 a la pelicula: Braking bad en la fecha: 2017-03-23 04:10:06
+[2017-03-23 4:44:06.246501] [info] El cliente: nicolas agrego una nueva valoracion de: 10 a la pelicula: SuperMan en la fecha: 2017-03-23 04:43:55
+[2017-03-23 4:44:22.316946] [info] El cliente: nicolas agrego una nueva valoracion de: 6 a la pelicula: SuperMan en la fecha: 2017-03-23 04:44:14
+[2017-03-23 4:44:28.985943] [info] El cliente: nicolas agrego una nueva valoracion de: 3 a la pelicula: SuperMan en la fecha: 2017-03-23 04:44:24
+[2017-03-23 4:44:32.168345] [info] El cliente: nicolas agrego una nueva valoracion de: 5 a la pelicula: SpiderMan en la fecha: 2017-03-23 04:44:29
+[2017-03-23 4:44:34.839709] [info] El cliente: nicolas agrego una nueva valoracion de: 5 a la pelicula: Prision Break en la fecha: 2017-03-23 04:44:32
+[2017-03-23 4:44:59.120636] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: Prision Break en la fecha: 2017-03-23 04:44:51
+[2017-03-23 4:45:01.259465] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: SpiderMan en la fecha: 2017-03-23 04:44:59
+[2017-03-23 4:45:16.062460] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: Braking bad en la fecha: 2017-03-23 04:45:07
+[2017-03-23 4:45:17.793020] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: Prision Break en la fecha: 2017-03-23 04:45:16
+[2017-03-23 4:45:19.715723] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: SpiderMan en la fecha: 2017-03-23 04:45:17
+[2017-03-23 4:45:21.685194] [info] El cliente: Jorge agrego una nueva valoracion de: 7 a la pelicula: SuperMan en la fecha: 2017-03-23 04:45:19
+[2017-03-23 4:45:55.087290] [info] El cliente: Janeth agrego una nueva valoracion de: 2 a la pelicula: Braking bad en la fecha: 2017-03-23 04:45:51
+[2017-03-23 4:45:56.906064] [info] El cliente: Janeth agrego una nueva valoracion de: 2 a la pelicula: Prision Break en la fecha: 2017-03-23 04:45:55
+[2017-03-23 4:45:58.687355] [info] El cliente: Janeth agrego una nueva valoracion de: 2 a la pelicula: SpiderMan en la fecha: 2017-03-23 04:45:57
+[2017-03-23 4:46:01.364871] [info] El cliente: Janeth agrego una nueva valoracion de: 2 a la pelicula: SuperMan en la fecha: 2017-03-23 04:45:58
+[2017-03-23 4:47:42.781441] [info] El cliente: Janeth agrego una nueva valoracion de: 5 a la pelicula: SpiderMan en la fecha: 2017-03-23 04:47:35
+[2017-03-23 4:47:44.648487] [info] El cliente: Janeth agrego una nueva valoracion de: 5 a la pelicula: SuperMan en la fecha: 2017-03-23 04:47:42
+[2017-03-23 4:47:47.199270] [info] El cliente: Janeth agrego una nueva valoracion de: 5 a la pelicula: Prision Break en la fecha: 2017-03-23 04:47:44
+[2017-03-23 4:47:49.523272] [info] El cliente: Janeth agrego una nueva valoracion de: 5 a la pelicula: Braking bad en la fecha: 2017-03-23 04:47:47
+[2017-03-23 4:49:35.158399] [info] El cliente: Janeth agrego una nueva valoracion de: 1 a la pelicula: Prision Break en la fecha: 2017-03-23 04:49:29
