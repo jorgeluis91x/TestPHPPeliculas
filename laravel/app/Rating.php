@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Rating extends Model
 {
     protected $fillable = [
-        'fecha','client_id','movie_id','valoracion'
+        'fecha','client_id','movie_id','valoracion','user_id'
     ];
 
     public function movie()

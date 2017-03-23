@@ -15,8 +15,8 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::resource('/valoraciones','RatingsController');
+Route::resource('/home','RatingsController');
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index');
+//Route::get('/home', 'HomeController@index');
